@@ -1,0 +1,14 @@
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\bin\Debug\net8.0\Lab1_SetupUnits.exe
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\bin\Debug\net8.0\Lab1_SetupUnits.deps.json
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\bin\Debug\net8.0\Lab1_SetupUnits.runtimeconfig.json
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\bin\Debug\net8.0\Lab1_SetupUnits.dll
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\bin\Debug\net8.0\Lab1_SetupUnits.pdb
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.AssemblyInfoInputs.cache
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.AssemblyInfo.cs
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.csproj.CoreCompileInputs.cache
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.dll
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\refint\Lab1_SetupUnits.dll
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.pdb
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\Lab1_SetupUnits.genruntimeconfig.cache
+C:\Users\aguom\source\repos\Lab1_SetupUnits\Lab1_SetupUnits\obj\Debug\net8.0\ref\Lab1_SetupUnits.dll

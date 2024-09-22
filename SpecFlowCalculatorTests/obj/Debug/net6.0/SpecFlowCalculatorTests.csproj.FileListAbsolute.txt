@@ -1,0 +1,5 @@
+C:\Users\aguom\source\repos\Lab1_SetupUnits\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.csproj.AssemblyReference.cache
+C:\Users\aguom\source\repos\Lab1_SetupUnits\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguom\source\repos\Lab1_SetupUnits\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\aguom\source\repos\Lab1_SetupUnits\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.AssemblyInfo.cs
+C:\Users\aguom\source\repos\Lab1_SetupUnits\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.csproj.CoreCompileInputs.cache

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICT3112_Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+903f7bfe19fc61bd4a02f592e35643ea205267e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e98cbb87e378ddc3912cbdd7f46eac783fd252")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICT3112_Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICT3112_Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

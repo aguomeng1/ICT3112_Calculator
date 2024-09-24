@@ -5,6 +5,7 @@
         public Calculator() { }
         public double DoOperation(double num1, double num2, string op)
         {
+            //Test
             double result = double.NaN; // Default value
                                         // Use a switch statement to do the math.
             switch (op)
@@ -69,7 +70,7 @@
             }
             return num1 / num2;
         }
-
+        
         public long Factorial(int n)
         {
             if (n < 0)

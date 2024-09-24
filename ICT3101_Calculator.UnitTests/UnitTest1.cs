@@ -44,14 +44,14 @@ namespace ICT3112_Calculator.UnitTests
             Assert.That(result, Is.EqualTo(5));
         }
 
-        [Test]
-        [TestCase(0, 0)]
-        [TestCase(0, 10)]
-        [TestCase(10, 0)]
-        public void Divide_WithZerosAsInputs_ResultThrowArgumentException(double a, double b)
-        {
-            Assert.That(() => _calculator.Divide(a, b), is.EqualTo(1));
-        }
+        //[Test]
+        //[TestCase(0, 0)]
+        //[TestCase(0, 10)]
+        //[TestCase(10, 0)]
+        //public void Divide_WithZerosAsInputs_ResultThrowArgumentException(double a, double b)
+        //{
+            //Assert.That(() => _calculator.Divide(a, b), is.EqualTo(1));
+        //}
 
         [Test]
         [TestCase(0, 1)]

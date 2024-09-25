@@ -77,6 +77,10 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
+    # Build the solution before running tests
+    - name: Build the solution
+      run: dotnet build $env:Solution_Name --configuration ${{ matrix.configuration }} --no-restore
+
     # Execute all unit tests in the solution
     - name: NUnit Tests
       working-directory: ICT3101_Calculator.UnitTests/

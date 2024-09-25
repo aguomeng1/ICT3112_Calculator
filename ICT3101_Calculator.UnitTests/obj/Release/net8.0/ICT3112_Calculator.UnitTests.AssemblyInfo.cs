@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICT3112_Calculator.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe38df6869fc014875d89e7f428c36a3d0f90e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fec626d4ba9b759d1e841d2b89b9cc2f8094967")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICT3112_Calculator.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICT3112_Calculator.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

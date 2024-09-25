@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qQS7npnx7nY=",
+  "dgSpecHash": "oK2frZ7lW3s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aguom\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\aguom\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

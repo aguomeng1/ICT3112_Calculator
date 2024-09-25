@@ -5226,11 +5226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
       "projectName": "SpecFlowCalculatorTests",
-      "projectPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
+      "projectPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj",
       "packagesPath": "C:\\Users\\aguom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\obj\\",
+      "outputPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\SpecFlowCalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aguom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5247,8 +5247,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {
-              "projectPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj"
+            "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {
+              "projectPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj"
             }
           }
         }

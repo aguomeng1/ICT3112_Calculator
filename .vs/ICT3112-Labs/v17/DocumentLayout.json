@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\",
+  "WorkspaceRootPath": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A68CC8A9-265C-4CEB-9D70-108835AF9E83}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\aguom\\source\\repos\\lab1_setupunits\\specflowcalculatortests\\features\\usingcalculatorbasicreliability.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A68CC8A9-265C-4CEB-9D70-108835AF9E83}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatorbasicreliability.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\.github\\workflows\\dotnet-desktop.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\dotnet-desktop.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A68CC8A9-265C-4CEB-9D70-108835AF9E83}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\aguom\\source\\repos\\lab1_setupunits\\specflowcalculatortests\\stepdefinitions\\calculatorbasicreliabilitydefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68CC8A9-265C-4CEB-9D70-108835AF9E83}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\stepdefinitions\\calculatorbasicreliabilitydefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|c:\\users\\aguom\\source\\repos\\lab1_setupunits\\lab1_setupunits\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|solutionrelative:lab1_setupunits\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\ict3101_calculator.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|solutionrelative:ict3101_calculator.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -33,42 +33,38 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsingCalculatorBasicReliability.feature",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
-              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
-              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-21T03:58:33.502Z",
+              "Title": "dotnet-desktop.yml",
+              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\.github\\workflows\\dotnet-desktop.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\dotnet-desktop.yml",
+              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\.github\\workflows\\dotnet-desktop.yml",
+              "RelativeToolTip": ".github\\workflows\\dotnet-desktop.yml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-25T02:02:50.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculatorBasicReliabilityDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\StepDefinitions\\CalculatorBasicReliabilityDefinitions.cs",
-              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\StepDefinitions\\CalculatorBasicReliabilityDefinitions.cs",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\SpecFlowCalculatorTests\\StepDefinitions\\CalculatorBasicReliabilityDefinitions.cs",
-              "RelativeToolTip": "SpecFlowCalculatorTests\\StepDefinitions\\CalculatorBasicReliabilityDefinitions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAIA+wNYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T03:58:30.524Z",
+              "WhenOpened": "2024-09-24T09:22:46.608Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\Calculator.cs",
-              "RelativeDocumentMoniker": "Lab1_SetupUnits\\Calculator.cs",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\Calculator.cs",
-              "RelativeToolTip": "Lab1_SetupUnits\\Calculator.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAcwLIAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T03:43:02.612Z"
             }
           ]
         }

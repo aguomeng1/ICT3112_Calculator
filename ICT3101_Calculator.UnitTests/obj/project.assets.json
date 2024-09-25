@@ -5472,11 +5472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj",
       "projectName": "ICT3112_Calculator.UnitTests",
-      "projectPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj",
+      "projectPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj",
       "packagesPath": "C:\\Users\\aguom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\ICT3101_Calculator.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aguom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5493,8 +5493,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {
-              "projectPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj"
+            "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {
+              "projectPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj"
             }
           }
         }

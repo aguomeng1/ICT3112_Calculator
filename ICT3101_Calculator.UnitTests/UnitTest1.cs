@@ -4,11 +4,13 @@ namespace ICT3112_Calculator.UnitTests
     public class CalculatorTests
     {
         private Calculator _calculator;
+        private IFileReader _fileReader;
         [SetUp]
         public void Setup()
         {
             // Arrange
             _calculator = new Calculator();
+            _fileReader = new FileReader();
         }
         [Test]
         public void Add_WhenAddingTwoNumbers_ResultEqualToSum()
@@ -50,7 +52,7 @@ namespace ICT3112_Calculator.UnitTests
         //[TestCase(10, 0)]
         //public void Divide_WithZerosAsInputs_ResultThrowArgumentException(double a, double b)
         //{
-            //Assert.That(() => _calculator.Divide(a, b), is.EqualTo(1));
+        //Assert.That(() => _calculator.Divide(a, b), is.EqualTo(1));
         //}
 
         [Test]
@@ -195,6 +197,24 @@ namespace ICT3112_Calculator.UnitTests
             // Act
             // Assert
             Assert.That(() => _calculator.UnknownFunctionB(4, 5), Throws.ArgumentException);
+        }
+
+        [Test]
+        public void GenMagicNum_WhenGivenPos_ReturnCorrectResult ()
+        {
+            Assert.That(() => _calculator.GenMagicNum(1, _fileReader), Is.EqualTo(2));
+        }
+
+        [Test]
+        public void GenMagicNum_WhenGivenNeg_ReturnCorrectResult()
+        {
+            Assert.That(() => _calculator.GenMagicNum(-1, _fileReader), Is.EqualTo(2));
+        }
+
+        [Test]
+        public void GenMagicNum_WhenGivenZero_ReturnCorrectResult()
+        {
+            Assert.That(() => _calculator.GenMagicNum(0, _fileReader), Is.EqualTo(0));
         }
     }
 }

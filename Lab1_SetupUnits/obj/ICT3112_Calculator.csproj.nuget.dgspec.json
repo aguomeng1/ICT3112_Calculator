@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {}
+    "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {
+    "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj",
         "projectName": "ICT3112_Calculator",
-        "projectPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj",
+        "projectPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj",
         "packagesPath": "C:\\Users\\aguom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\obj\\",
+        "outputPath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aguom\\AppData\\Roaming\\NuGet\\NuGet.Config",

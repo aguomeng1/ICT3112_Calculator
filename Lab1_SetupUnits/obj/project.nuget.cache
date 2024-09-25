@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6Jnb3UUkB0=",
+  "dgSpecHash": "wK7/B6+Kq0s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aguom\\source\\repos\\Lab1_SetupUnits\\Lab1_SetupUnits\\ICT3112_Calculator.csproj",
+  "projectFilePath": "C:\\Users\\aguom\\Source\\Repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\ICT3112_Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aguom\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\aguom\\.nuget\\packages\\fluentassertions\\6.12.1\\fluentassertions.6.12.1.nupkg.sha512",

@@ -202,19 +202,19 @@ namespace ICT3112_Calculator.UnitTests
         [Test]
         public void GenMagicNum_WhenGivenPos_ReturnCorrectResult ()
         {
-            Assert.That(() => _calculator.GenMagicNum(1, _fileReader), Is.EqualTo(2));
+            Assert.That(() => _calculator.GenMagicNum(1, _fileReader), Is.EqualTo(84));
         }
 
         [Test]
         public void GenMagicNum_WhenGivenNeg_ReturnCorrectResult()
         {
-            Assert.That(() => _calculator.GenMagicNum(-1, _fileReader), Is.EqualTo(2));
+            Assert.That(() => _calculator.GenMagicNum(-1, _fileReader), Is.EqualTo(0));
         }
 
         [Test]
         public void GenMagicNum_WhenGivenZero_ReturnCorrectResult()
         {
-            Assert.That(() => _calculator.GenMagicNum(0, _fileReader), Is.EqualTo(0));
+            Assert.That(() => _calculator.GenMagicNum(0, _fileReader), Is.EqualTo(84));
         }
     }
 }

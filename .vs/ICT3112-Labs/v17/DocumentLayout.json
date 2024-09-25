@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\.github\\workflows\\dotnet-desktop.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\dotnet-desktop.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\lab1_setupunits\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|solutionrelative:lab1_setupunits\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\ict3101_calculator.unittests\\additionalcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|solutionrelative:ict3101_calculator.unittests\\additionalcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\ict3101_calculator.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|solutionrelative:ict3101_calculator.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\ict3101_calculator.unittests\\magicnumbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2402A83F-2D31-460A-B370-163024784253}|ICT3101_Calculator.UnitTests\\ICT3112_Calculator.UnitTests.csproj|solutionrelative:ict3101_calculator.unittests\\magicnumbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\lab1_setupunits\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|solutionrelative:lab1_setupunits\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|c:\\users\\aguom\\source\\repos\\aguomeng1\\ict3112_calculator\\lab1_setupunits\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594A86-367A-462E-87E7-7F6F21C7021B}|Lab1_SetupUnits\\ICT3112_Calculator.csproj|solutionrelative:lab1_setupunits\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\IFileReader.cs",
+              "RelativeDocumentMoniker": "Lab1_SetupUnits\\IFileReader.cs",
+              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\IFileReader.cs",
+              "RelativeToolTip": "Lab1_SetupUnits\\IFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:20:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdditionalCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\AdditionalCalculatorTests.cs",
+              "RelativeDocumentMoniker": "ICT3101_Calculator.UnitTests\\AdditionalCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\AdditionalCalculatorTests.cs",
+              "RelativeToolTip": "ICT3101_Calculator.UnitTests\\AdditionalCalculatorTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:17:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "ICT3101_Calculator.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAA6wMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:41:35.507Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -50,54 +89,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MagicNumbers.txt",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\MagicNumbers.txt",
-              "RelativeDocumentMoniker": "ICT3101_Calculator.UnitTests\\MagicNumbers.txt",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\MagicNumbers.txt",
-              "RelativeToolTip": "ICT3101_Calculator.UnitTests\\MagicNumbers.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-25T02:10:18.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileReader.cs",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\FileReader.cs",
-              "RelativeDocumentMoniker": "Lab1_SetupUnits\\FileReader.cs",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\FileReader.cs",
-              "RelativeToolTip": "Lab1_SetupUnits\\FileReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T02:09:49.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dotnet-desktop.yml",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\.github\\workflows\\dotnet-desktop.yml",
-              "RelativeDocumentMoniker": ".github\\workflows\\dotnet-desktop.yml",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\.github\\workflows\\dotnet-desktop.yml",
-              "RelativeToolTip": ".github\\workflows\\dotnet-desktop.yml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-09-25T02:02:50.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "ICT3101_Calculator.UnitTests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\ICT3101_Calculator.UnitTests\\UnitTest1.cs",
-              "RelativeToolTip": "ICT3101_Calculator.UnitTests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\Calculator.cs",
+              "RelativeDocumentMoniker": "Lab1_SetupUnits\\Calculator.cs",
+              "ToolTip": "C:\\Users\\aguom\\source\\repos\\aguomeng1\\ICT3112_Calculator\\Lab1_SetupUnits\\Calculator.cs",
+              "RelativeToolTip": "Lab1_SetupUnits\\Calculator.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAA/wOEAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:22:46.608Z",
+              "WhenOpened": "2024-09-25T08:39:38.121Z",
               "EditorCaption": ""
             }
           ]

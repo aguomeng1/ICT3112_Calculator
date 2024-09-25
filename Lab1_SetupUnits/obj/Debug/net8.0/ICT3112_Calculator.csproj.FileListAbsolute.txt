@@ -73,3 +73,8 @@ C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\obj\Deb
 C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\obj\Debug\net8.0\ICT3112_Calculator.pdb
 C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\obj\Debug\net8.0\ICT3112_Calculator.genruntimeconfig.cache
 C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\obj\Debug\net8.0\ref\ICT3112_Calculator.dll
+C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\bin\Debug\net8.0\Moq.dll
+C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aguom\Source\Repos\aguomeng1\ICT3112_Calculator\Lab1_SetupUnits\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

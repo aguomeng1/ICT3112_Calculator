@@ -198,11 +198,13 @@ namespace ICT3112_Calculator.UnitTests
             // Assert
             Assert.That(() => _calculator.UnknownFunctionB(4, 5), Throws.ArgumentException);
         }
-
         [Test]
-        public void GenMagicNum_WhenGivenPos_ReturnCorrectResult ()
+        [TestCase(0, 84)]
+        [TestCase(1, 84)]
+        public void GenMagicNum_WhenGivenTextFile_ReturnCorrectResult (double a, double expected)
         {
-            Assert.That(() => _calculator.GenMagicNum(1, _fileReader), Is.EqualTo(84));
+            double result = _calculator.GenMagicNum(a, _fileReader);
+            Assert.That(result, Is.EqualTo(expected));
         }
 
         [Test]
@@ -211,10 +213,5 @@ namespace ICT3112_Calculator.UnitTests
             Assert.That(() => _calculator.GenMagicNum(-1, _fileReader), Is.EqualTo(0));
         }
 
-        [Test]
-        public void GenMagicNum_WhenGivenZero_ReturnCorrectResult()
-        {
-            Assert.That(() => _calculator.GenMagicNum(0, _fileReader), Is.EqualTo(84));
-        }
     }
 }
